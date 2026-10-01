@@ -179,7 +179,7 @@ convertMinuteToHour();
 else if(time_code == 2)
 {
 convertHourToSeconds();
- convertSecondsToHour();
+convertSecondsToHour();
 }
 else
 {
@@ -193,7 +193,6 @@ System.out.println(“Invalid Code”);
 }
 }
 OUTPUT
-
 Enter the cod 1:Currency\n2:Distance\n3:Time
  1
 Enter the Currecy code 1:Euro\n2:Dollar\n3:Yen
